@@ -1,0 +1,16 @@
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url(https://i.loli.net/2021/06/15/qrWwntJ7G318AmY.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
+/* 页脚透明 */
+#footer {
+    background: transparent !important;
+}
+/* 鼠标图标 */
+body {
+    cursor: url(/image/normal select.cur), auto;
+}
