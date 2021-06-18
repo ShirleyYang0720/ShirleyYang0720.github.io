@@ -11,6 +11,76 @@
     background: transparent !important;
 }
 /* 鼠标图标 */
+
 body {
-    cursor: url(/image/normal select.cur), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/normal select.cur), auto;
+}
+
+
+/*a标签*/
+
+a:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+
+/*按钮*/
+
+button:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+#rightside>div>button,
+#rightside>div>a {
+    display: block;
+    margin-bottom: 2px;
+    width: 30px;
+    height: 30px;
+    color: var(--btn-color);
+    text-align: center;
+    font-size: 16px;
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+
+/* 打赏 */
+
+.post-reward .reward-button {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+
+/* 文章标签 */
+
+.layout_post .tag_share .post-meta__tags {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+
+/* 评论区 */
+
+.vcol * {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+.v[data-class=v] .vicon {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+.v[data-class=v] .vbtn {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+
+/* 回复 */
+
+.vat {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
+}
+
+
+/*i标签*/
+
+i:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/alternate select.cur), auto;
 }
