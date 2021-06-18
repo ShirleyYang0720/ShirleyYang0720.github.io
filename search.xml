@@ -5,25 +5,6 @@
     
     <entry>
       <title>My First Blog</title>
-      <link href="/2021/06/14/My-First-Blog%20-%204/"/>
-      <url>/2021/06/14/My-First-Blog%20-%204/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> reading notes </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My First Blog</title>
       <link href="/2021/06/14/My-First-Blog%20-%202/"/>
       <url>/2021/06/14/My-First-Blog%20-%202/</url>
       
@@ -71,6 +52,25 @@
       <categories>
           
           <category> 刷题 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My First Blog</title>
+      <link href="/2021/06/14/My-First-Blog%20-%204/"/>
+      <url>/2021/06/14/My-First-Blog%20-%204/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> reading notes </category>
           
       </categories>
       
