@@ -5,6 +5,25 @@
     
     <entry>
       <title>My First Blog</title>
+      <link href="/2021/06/14/My-First-Blog%20-%202/"/>
+      <url>/2021/06/14/My-First-Blog%20-%202/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My First Blog</title>
       <link href="/2021/06/14/My-First-Blog%20-%204/"/>
       <url>/2021/06/14/My-First-Blog%20-%204/</url>
       
@@ -43,15 +62,15 @@
     
     <entry>
       <title>My First Blog</title>
-      <link href="/2021/06/14/My-First-Blog%20-%202/"/>
-      <url>/2021/06/14/My-First-Blog%20-%202/</url>
+      <link href="/2021/06/14/My-First-Blog%20-%205/"/>
+      <url>/2021/06/14/My-First-Blog%20-%205/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 项目 </category>
+          <category> lecture notes </category>
           
       </categories>
       
@@ -71,25 +90,6 @@
       <categories>
           
           <category> daily </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My First Blog</title>
-      <link href="/2021/06/14/My-First-Blog%20-%205/"/>
-      <url>/2021/06/14/My-First-Blog%20-%205/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> lecture notes </category>
           
       </categories>
       
