@@ -121,7 +121,15 @@ i:hover{
   color: #f28e16;
   text-decoration: true;
 }
+
 /*a标签颜色*/
 a {
   color: #f28e16;
 }
+
+/* 目录隐藏按钮颜色 */
+
+#toggle-sidebar {
+  color: #f28e16 !important;
+}
+
