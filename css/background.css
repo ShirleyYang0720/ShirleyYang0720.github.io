@@ -40,7 +40,7 @@ div#category{
 /* 全局默认鼠标指针 */
 body,
 html{
-  cursor: url('https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/arrow_1.cur'),auto !important;
+  cursor: url('https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/Arrow.cur'),auto !important;
   
 }
 /* 悬停图片时的鼠标指针 */
@@ -75,9 +75,16 @@ i:hover{
 #nav .site-page:hover{
    cursor: url('https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/UpArrow.cur'),auto;
 }
-
-
-
+/* 评论区 */
+.vcol * {
+  cursor: url('https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/Handwriting.cur'), auto;
+}
+.v[data-class=v] .vicon {
+  cursor: url('https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/Handwriting.cur'), auto;
+}
+.v[data-class=v] .vbtn {
+  cursor: url('https://cdn.jsdelivr.net/gh/ShirleyYang0720/ShirleyYang0720.github.io/img/Handwriting.cur'), auto;
+}
 
 
 /* 滚动条 */
