@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<p>今天是2021年6月21日，不知不觉就要迈入7月，考研时间进度条已经过半，然而进度条并没有（</p><p>今年六月的北京颇有些南方梅雨的样子，雨反常地下了不少天，让人时常有些时空恍惚的感觉。六月也就这样有些满意也有点不满意的过了大半。</p><p>虽然还没到月底，总结来说这个月过的很充实，一是从5月底临ddl期才起步的双学位毕设顺利完成，二是紧接着一周终于完成了个人博客的搭建，并美化到还算满意的样子。</p><p>六月接下来的内容就只剩下期末考试周和暑假了，可以说毫无悬念。除此之外还有成为额外负担的某竞赛，因为是和大四已毕业的同学组队，让人感觉有点跟不上节奏（好吧是我本人积极性不够高）。</p><p>唯一令人担心的一点是，意料之外的忙碌让我完全脱离了考研的学习状态，以及六级又再一次的裸考了。虽然不走保研的路让我还拥有最后一次刷分机会，但也是最后唯一一次了，裸考3次回想起来也真是让人难受。</p><p>今天是夏至，也是北半球白天最长的一天。几天前还和同学讨论，北方夏日的白天要比南方长上许多，毕竟凌晨四点就天亮了（不要问我怎么知道的），她补充说晚上大概八点左右出图书馆也宛若白昼，推测八点半左右太阳才落山。相比我从小长大的地方，北京真是魔幻现实啊，一年到头难下几场雨，（空气质量治理较好的最近几年）甚至难有几天不是晴空万里，以及夏日里比我睡眠时间短的黑夜（20：30~4：00）。最近才意识到，高考失利与意外来到北京，也许是近年来唯二最幸运的事情了。</p><p>回忆真是奇妙的东西，一些亲历时平平淡淡的日子，回味起来却感觉当初如此幸福。</p><p>最后希望此博客能够被本人坚持续运营，用于分享学习笔记以及技术项目。祝愿每一天都充实快乐。</p><pre><code>                                            2021.06.21                                           夏至，于宿舍内</code></pre>]]></content>
       
       
+      <categories>
+          
+          <category> daily </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -56,25 +62,6 @@
     
     <entry>
       <title>My First Blog</title>
-      <link href="/2021/06/14/My-First-Blog%20-%205/"/>
-      <url>/2021/06/14/My-First-Blog%20-%205/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> lecture notes </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My First Blog</title>
       <link href="/2021/06/14/My-First-Blog%20-%204/"/>
       <url>/2021/06/14/My-First-Blog%20-%204/</url>
       
@@ -94,11 +81,17 @@
     
     <entry>
       <title>My First Blog</title>
-      <link href="/2021/06/14/My-First-Blog/"/>
-      <url>/2021/06/14/My-First-Blog/</url>
+      <link href="/2021/06/14/My-First-Blog%20-%205/"/>
+      <url>/2021/06/14/My-First-Blog%20-%205/</url>
       
         <content type="html"><![CDATA[]]></content>
       
+      
+      <categories>
+          
+          <category> lecture notes </category>
+          
+      </categories>
       
       
     </entry>
@@ -118,6 +111,19 @@
           <category> daily </category>
           
       </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My First Blog</title>
+      <link href="/2021/06/14/My-First-Blog/"/>
+      <url>/2021/06/14/My-First-Blog/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
       
       
     </entry>
