@@ -106,6 +106,19 @@
     
     <entry>
       <title>My First Blog</title>
+      <link href="/2021/06/14/My-First-Blog/"/>
+      <url>/2021/06/14/My-First-Blog/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My First Blog</title>
       <link href="/2021/06/14/My-First-Blog%20-%206/"/>
       <url>/2021/06/14/My-First-Blog%20-%206/</url>
       
@@ -117,19 +130,6 @@
           <category> daily </category>
           
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My First Blog</title>
-      <link href="/2021/06/14/My-First-Blog/"/>
-      <url>/2021/06/14/My-First-Blog/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
       
       
     </entry>

@@ -36,6 +36,10 @@ div#category{
   opacity: 0.9;
 }
 
+/* 页脚透明 */
+#footer{
+  background: transparent!important;
+}
 
 /* 全局默认鼠标指针 */
 body,
